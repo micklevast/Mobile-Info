@@ -12,6 +12,19 @@
         "speed": "5g",
         "connectivity":"c"
     },
+        {
+        "id": "96582",
+        "company name": "NOKIA",
+        "model number": "Nokia 1100",
+        "ram": "NA",
+        "storage": "NA",
+        "color": "black",
+        "number of speakers": "2",
+        "launch Date":["17/2/1987"],
+        "camera": "5 mp",
+        "speed": "2g",
+        "connectivity":"c"
+    },
     {
         "id": "2",
         "company name": "Apple",
