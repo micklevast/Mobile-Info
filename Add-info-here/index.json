@@ -426,7 +426,19 @@
         "speed": "4g",
         "connectivity":"c"
         }
-    
+      {
+        "id": "34",
+        "company name": "redmi",
+        "model number": "M2003J6B1I",
+        "ram": "6gb",
+        "storage": "64 gb",
+        "color": "Black",
+        "number of speakers": "2",
+     "launch Date":["11/05/2020"],
+        "camera": "64 mp",
+        "speed": "4g",
+        "connectivity":"c"
+        }
 
     
 
