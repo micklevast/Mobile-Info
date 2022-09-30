@@ -251,7 +251,8 @@
         
     },
     {
-        "id": "20",
+
+        "id": "19",
         "company name": "Mota",
         "model number": "Edge 80 Ultra",
         "ram": "12gb",
@@ -263,7 +264,34 @@
         "speed": "9g",
 
         "connectivity":"g"
-        
+        },{
+        "id": "20",
+
+        "company name": "vivo",
+        "model number": "15486",
+        "ram": "6gb",
+        "storage": "64gb",
+        "color": "black",
+        "number of speakers": "1",
+        "launch Date":["08/9/2022"],
+        "camera": "64mp",
+        "speed": "4g",
+
+        "connectivity":"c"
+     },{   
+        "id": "21",
+        "company name": "vivo 95",
+        "model number": "Nord",
+        "ram": "6gb",
+        "storage": "128 gb",
+        "color": "marble blue",
+        "number of speakers": "2",
+        "launch Date":["31/9/2018"],
+        "camera": "64 mp",
+        "speed": "5g",
+        "connectivity":"c"
+
+
     }
         
 
