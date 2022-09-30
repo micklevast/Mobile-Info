@@ -398,6 +398,19 @@
         "speed": "4g",
         "connectivity":"c"
     },
+    {   
+        "id": "30",
+        "company name": "SONY",
+        "model number": "Not",
+        "ram": "8gb",
+         "storage": "128 gb",
+        "color": "Blue",
+        "number of speakers": "2",
+        "launch Date":["30/03/2022"],
+        "camera": "48 mp",
+        "speed": "5g",
+        "connectivity":"c"
+    }
     
     {
         "id": "30",
