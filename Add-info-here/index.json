@@ -249,6 +249,19 @@
 
         "connectivity":"c"
         
+    },
+    {
+        "id": "19",
+        "company name": "vivo 95",
+        "model number": "Nord",
+        "ram": "6gb",
+        "storage": "128 gb",
+        "color": "marble blue",
+        "number of speakers": "2",
+        "launch Date":["31/9/2018"],
+        "camera": "64 mp",
+        "speed": "5g",
+        "connectivity":"c"
     }
         
 
