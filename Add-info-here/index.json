@@ -305,8 +305,19 @@
         "camera": "48 mp",
         "speed": "4g",
         "connectivity":"c"
-
-
+    },
+    {   
+        "id": "23",
+        "company name": "apple",
+        "model number": "iphone 14",
+        "ram": "6gb",
+        "storage": "512 gb",
+        "color": "black",
+        "number of speakers": "2",
+        "launch Date":["7/9/2022"],
+        "camera": "12 mp",
+        "speed": "255.91 Mbps",
+        "connectivity":"c"
     },
     
     {
@@ -384,7 +395,11 @@
     },
 
 
+
+    }
     
+        
+   
 
 
 ]
