@@ -589,19 +589,15 @@
         "camera": "64 mp",
         "speed": "5g",
         "connectivity":"c"
-     },
-    {
-        "id": "44",
-        "company name": "POCO",
-        "model number": "M2102J2OSI",
+     }
+{ "id": "41",
+        "company name": "Apple",
+        "model number": "14 Pro Max",
         "ram": "8gb",
-        "storage": "128 gb",
-        "color": "Steel Blue",
+        "storage": "64 gb",
+        "color": "black",
         "number of speakers": "2",
-        "launch Date":["30/03/2021"],
-        "camera": "48 mp",
-        "speed": "4g",
+        "launch Date":["12/9/2022"],
+        "camera": "32 mp",
+        "speed": "5g",
         "connectivity":"c"
-
-     },
-]
