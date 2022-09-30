@@ -456,8 +456,10 @@
         "speed": "4g",
         "connectivity":"c"
         },
+    
     {
         "id": "34",
+
         "company name": "readme",
         "model number": "Note 9 Pro",
         "ram": "8gb",
@@ -468,7 +470,7 @@
         "camera": "64 mp",
         "speed": "4g",
         "connectivity":"c"
-        },
+       },
       {
         "id": "35",
         "company name": "apple i phone",
@@ -481,9 +483,8 @@
         "camera": "64 mp",
         "speed": "4g",
         "connectivity":"c"
-        }
 
-    
+        },
 {
         "id": "36",
         "company name": "oppo",
@@ -496,21 +497,47 @@
         "camera": "32 mp",
         "speed": "5g",
         "connectivity":"c"
-    }
-
-    {
+    },
+   {
         "id": "37",
-        "company name": "Redmi",
-        "model number": "Note 7",
-        "ram": "4gb",
+        "company name": "Samsung",
+        "model number": "A30s",
+        "ram": "16gb",
         "storage": "64 gb",
-        "color": "blue",
+        "color": "Pale green",
         "number of speakers": "1",
-        "launch Date":["01/19"],
-        "camera": "13 mp",
+        "launch Date":["22/8/2019"],
+        "camera": "42 mp",
         "speed": "4g",
         "connectivity":"c"
     }
 
+    {
+        "id": "38",
+        "company name": "Redmi",
+        "model number": "Note 7",
+        "ram": "4gb",
+        "storage": "64 gb",
+        "color": "Purple",
+        "number of speakers": "2",
+        "launch Date":["22/8/2019"],
+        "camera": "20 mp",
+        "speed": "4g",
+        "connectivity":"c"
+    },
+    {
 
+        "id": "39",
+        "company name": "poco",
+        "model number": "Narzo 31 r",
+        "ram": "6gb",
+        "storage": "128 gb",
+        "color": "black",
+        "number of speakers": "3",
+        "launch Date":["22/8/2019"],
+        "camera": "64 mp",
+        "speed": "5g",
+        "connectivity":"c"
+     },
+    
 ]
