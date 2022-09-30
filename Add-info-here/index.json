@@ -492,6 +492,19 @@
         "camera": "13 mp",
         "speed": "4g",
         "connectivity":"c"
+    },
+{
+        "id": "33",
+        "company name": "Samsung",
+        "model number": "Galaxy F42 5G",
+        "ram": "8gb",
+        "storage": "512 gb",
+        "color": "blue",
+        "number of speakers": "1",
+        "launch Date":["9/22"],
+        "camera": "48 mp",
+        "speed": "5g",
+        "connectivity":"c"
     }
 
 
