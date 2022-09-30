@@ -277,6 +277,19 @@
         "speed": "5g",
         "connectivity":"c"
 
+    },{   
+        "id": "21",
+        "company name": "Xiaomi",
+        "model number": "M2101K6G",
+        "ram": "6gb",
+        "storage": "128 gb",
+        "color": "Glacier Blue",
+        "number of speakers": "2",
+        "launch Date":["31/4/2021"],
+        "camera": "64 mp",
+        "speed": "4g",
+        "connectivity":"c"
+
     }
         
 
