@@ -455,10 +455,23 @@
         "camera": "64 mp",
         "speed": "4g",
         "connectivity":"c"
-        },
-    
-    {
+        }
+      {
         "id": "34",
+        "company name": "redmi",
+        "model number": "M2003J6B1I",
+        "ram": "6gb",
+        "storage": "64 gb",
+        "color": "Black",
+        "number of speakers": "2",
+     "launch Date":["11/05/2020"],
+        "camera": "64 mp",
+        "speed": "4g",
+        "connectivity":"c"
+        }    
+    {
+        "id": "35",
+
 
         "company name": "readme",
         "model number": "Note 9 Pro",
@@ -472,7 +485,7 @@
         "connectivity":"c"
        },
       {
-        "id": "35",
+        "id": "36",
         "company name": "apple i phone",
         "model number": "i3",
         "ram": "8gb",
@@ -486,7 +499,7 @@
 
         },
 {
-        "id": "36",
+        "id": "37",
         "company name": "oppo",
         "model number": "A38",
         "ram": "6gb",
@@ -499,7 +512,7 @@
         "connectivity":"c"
     },
    {
-        "id": "37",
+        "id": "38",
         "company name": "Samsung",
         "model number": "A30s",
         "ram": "16gb",
@@ -510,10 +523,35 @@
         "camera": "42 mp",
         "speed": "4g",
         "connectivity":"c"
-    }
-
+    },
+{
+        "id": "33",
+        "company name": "Samsung",
+        "model number": "Galaxy F42 5G",
+        "ram": "8gb",
+        "storage": "512 gb",
+        "color": "blue",
+        "number of speakers": "1",
+        "launch Date":["9/22"],
+        "camera": "48 mp",
+        "speed": "5g",
+        "connectivity":"c"
+    },
+       {
+        "id": "32",
+        "company name": "Vivo",
+        "model number": "Y11",
+        "ram": "3 gb",
+        "storage": "32 gb",
+        "color": "blue",
+        "number of speakers": "1",
+        "launch Date":["18/10/2019"],
+        "camera": "13 mp",
+        "speed": "4g",
+        "connectivity":"c"
+    },
     {
-        "id": "38",
+        "id": "39",
         "company name": "Redmi",
         "model number": "Note 7",
         "ram": "4gb",
@@ -525,9 +563,22 @@
         "speed": "4g",
         "connectivity":"c"
     },
+     {
+        "id": "47",
+        "company name": "Readmi",
+        "model number": "m2101k7ai",
+        "ram": "6gb",
+        "storage": "128gb",
+        "color": "Shadow Black",
+        "number of speakers": "2",
+        "launch Date":["4/3/2021"],
+        "camera": "48mp",
+        "speed": "4g",
+        "connectivity":"c"
+    },
     {
 
-        "id": "39",
+        "id": "40",
         "company name": "poco",
         "model number": "Narzo 31 r",
         "ram": "6gb",
@@ -551,6 +602,6 @@
         "camera": "48 mp",
         "speed": "4g",
         "connectivity":"c"
-    }
-    
+
+     },
 ]
