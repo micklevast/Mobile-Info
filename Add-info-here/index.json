@@ -249,6 +249,21 @@
 
         "connectivity":"c"
         
+    },
+    {
+        "id": "19",
+        "company name": "vivo",
+        "model number": "15486",
+        "ram": "6gb",
+        "storage": "64gb",
+        "color": "black",
+        "number of speakers": "1",
+        "launch Date":["08/9/2022"],
+        "camera": "64mp",
+        "speed": "4g",
+
+        "connectivity":"c"
+        
     }
         
 
