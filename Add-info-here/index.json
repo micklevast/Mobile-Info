@@ -305,6 +305,7 @@
         "speed": "5g",
         "connectivity":"c"
 
+
     },
     {
         "id": "23",
@@ -318,6 +319,27 @@
         "camera": "48 mp",
         "speed": "4g",
         "connectivity":"c"
-    }
+    },
        
+
+   {
+        "id": "24",
+
+        "company name": "samsung",
+        "model number": "SM-F415FZBGINS",
+        "ram": "6gb",
+        "storage": "128gb",
+        "color": "fusion blue",
+        "number of speakers": "1",
+        "launch Date":["08/10/2020"],
+        "camera": "64mp",
+        "speed": "4g",
+
+        "connectivity":"c"
+     }
+        
+
+    
+
+
 ]
