@@ -446,6 +446,20 @@
         "speed": "5g",
 
         "connectivity":"c"
+    },
+
+    {
+        "id": "31",
+        "company name": "Huawei",
+        "model number": "Note 50",
+        "ram": "8gb",
+        "storage": "256gb",
+        "color": "sky blue",
+        "number of speakers": "3",
+        "launch Date":["06/09/2022"],
+        "camera": "108mp",
+        "speed": "5g",
+        "connectivity":"c"
     }
     
     
