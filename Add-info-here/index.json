@@ -292,17 +292,18 @@
         "speed": "4g",
 
         "connectivity":"c"
-     },{   
-        "id": "22",
-        "company name": "vivo 95",
-        "model number": "Nord",
-        "ram": "6gb",
-        "storage": "128 gb",
-        "color": "marble blue",
+     },
+    {   
+        "id": "23",
+        "company name": "Realme",
+        "model number": "6i",
+        "ram": "4gb",
+        "storage": "64 gb",
+        "color": "Lunar White, Eclipse Black",
         "number of speakers": "2",
-        "launch Date":["31/9/2018"],
-        "camera": "64 mp",
-        "speed": "5g",
+        "launch Date":["24/7/2020"],
+        "camera": "48 mp",
+        "speed": "4g",
         "connectivity":"c"
 
     }
