@@ -413,7 +413,7 @@
     }
     
     {
-        "id": "30",
+        "id": "31",
         "company name": "realme",
         "model number": "Narzo 30 T",
         "ram": "4gb",
@@ -426,8 +426,25 @@
 
         "connectivity":"c"
     },
+
+
     {
-        "id": "30",
+        "id": "32",
+        "company name": "Huawei",
+        "model number": "Note 50",
+        "ram": "8gb",
+        "storage": "256gb",
+        "color": "sky blue",
+        "number of speakers": "3",
+        "launch Date":["06/09/2022"],
+        "camera": "108mp",
+        "speed": "5g",
+        "connectivity":"c"
+    }
+    
+
+    {
+        "id": "33",
         "company name": "realme",
         "model number": "Narzo 30 T",
         "ram": "4gb",
@@ -440,7 +457,7 @@
         "connectivity":"c"
         },
     {
-        "id": "31",
+        "id": "34",
         "company name": "readme",
         "model number": "Note 9 Pro",
         "ram": "8gb",
@@ -453,7 +470,7 @@
         "connectivity":"c"
         },
       {
-        "id": "32",
+        "id": "35",
         "company name": "apple i phone",
         "model number": "i3",
         "ram": "8gb",
@@ -465,9 +482,10 @@
         "speed": "4g",
         "connectivity":"c"
         }
+
     
 {
-        "id": "31",
+        "id": "36",
         "company name": "oppo",
         "model number": "A38",
         "ram": "6gb",
@@ -481,7 +499,7 @@
     }
 
     {
-        "id": "32",
+        "id": "37",
         "company name": "Redmi",
         "model number": "Note 7",
         "ram": "4gb",
