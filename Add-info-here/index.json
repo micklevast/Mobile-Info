@@ -2,51 +2,51 @@
     {
         "id": "1",
         "company name": "samsung",
-        "model number": "M-31",
-        "ram": "8gb",
-        "storage": "64 gb",
+        "model number": "Galaxy S22 Ultra",
+        "ram": "12 gb",
+        "storage": "512 gb",
         "color": "black",
         "number of speakers": "2",
-        "launch Date":["26/5/2014"],
-        "camera": "32 mp",
+        "launch Date":["25/2/2022"],
+        "camera": "108 mp",
         "speed": "5g",
         "connectivity":"c"
     },
     {
         "id": "2",
-        "company name": "samsung",
-        "model number": "note 1",
-        "ram": "8gb",
-        "storage": "64 gb",
-        "color": "pink",
+        "company name": "Apple",
+        "model number": "Iphone 14 pro max",
+        "ram": "6gb",
+        "storage": "1 tb",
+        "color": "Purple",
         "number of speakers": "2",
-        "launch Date":["28/11/2019"],
-        "camera": "32 mp",
+        "launch Date":["16/09/2022"],
+        "camera": "48 mp",
         "speed": "5g",
-        "connectivity":"c"
+        "connectivity":"a"
     },
     {
         "id": "3",
-        "company name": "oppo",
-        "model number": "4662",
-        "ram": "5gb",
-        "storage": "128 gb",
-        "color": "blue",
+        "company name": "Google",
+        "model number": "Pixel 6 pro",
+        "ram": "12 gb",
+        "storage": "512 gb",
+        "color": "black",
         "number of speakers": "2",
-        "launch Date":["25/12/2019"],
-        "camera": "64 mp",
+        "launch Date":["19/10/2021"],
+        "camera": "50 mp",
         "speed": "5g",
         "connectivity":"c"
     },
     {   "id": "4",
         "company name": "oppo",
-        "model number": "reno 3",
-        "ram": "5gb",
-        "storage": "128 gb",
-        "color": "blue",
+        "model number": "reno 6 pro",
+        "ram": "12 gb",
+        "storage": "256 gb",
+        "color": "cerulean blue",
         "number of speakers": "2",
-        "launch Date":["5/5/2020"],
-        "camera": "128 mp",
+        "launch Date":["5/6/2021"],
+        "camera": "64 mp",
         "speed": "5g",
         "connectivity":"c"
     },
@@ -510,33 +510,8 @@
         "camera": "42 mp",
         "speed": "4g",
         "connectivity":"c"
-    },
-{
-        "id": "33",
-        "company name": "Samsung",
-        "model number": "Galaxy F42 5G",
-        "ram": "8gb",
-        "storage": "512 gb",
-        "color": "blue",
-        "number of speakers": "1",
-        "launch Date":["9/22"],
-        "camera": "48 mp",
-        "speed": "5g",
-        "connectivity":"c"
-    },
-       {
-        "id": "32",
-        "company name": "Vivo",
-        "model number": "Y11",
-        "ram": "3 gb",
-        "storage": "32 gb",
-        "color": "blue",
-        "number of speakers": "1",
-        "launch Date":["18/10/2019"],
-        "camera": "13 mp",
-        "speed": "4g",
-        "connectivity":"c"
-    },
+    }
+
     {
         "id": "38",
         "company name": "Redmi",
@@ -547,19 +522,6 @@
         "number of speakers": "2",
         "launch Date":["22/8/2019"],
         "camera": "20 mp",
-        "speed": "4g",
-        "connectivity":"c"
-    },
-     {
-        "id": "47",
-        "company name": "Readmi",
-        "model number": "m2101k7ai",
-        "ram": "6gb",
-        "storage": "128gb",
-        "color": "Shadow Black",
-        "number of speakers": "2",
-        "launch Date":["4/3/2021"],
-        "camera": "48mp",
         "speed": "4g",
         "connectivity":"c"
     },
@@ -575,32 +537,7 @@
         "launch Date":["22/8/2019"],
         "camera": "64 mp",
         "speed": "5g",
-
+        "connectivity":"c"
      },
- {
-        "id": "37",
-        "company name": "Redmi",
-        "model number": "10 prime",
-        "ram": "4gb",
-        "storage": "64 gb",
-        "color": "white",
-        "number of speakers": "2",
-        "launch Date":["03/19"],
-        "camera": "58 mp",
-        "speed": "4g",
-        "connectivity":"c"
-    }
-
-{ "id": "41",
-        "company name": "Apple",
-        "model number": "14 Pro Max",
-        "ram": "8gb",
-        "storage": "64 gb",
-        "color": "black",
-        "number of speakers": "2",
-        "launch Date":["12/9/2022"],
-        "camera": "32 mp",
-        "speed": "5g",
-        "connectivity":"c"
-}
+    
 ]
