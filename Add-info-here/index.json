@@ -369,6 +369,21 @@
     },
     {   
         "id": "26",
+
+        "company name": "Samsung",
+        "model number": "A71",
+        "ram": "8gb",
+        "storage": "128 gb",
+        "color": "White",
+        "number of speakers": "1",
+        "launch Date":["12/12/2019"],
+        "camera": "64 mp",
+        "speed": "4g",
+        "connectivity":"c"
+
+    },
+{
+        "id": "27",
         "company name": "poco x3 pro",
         "model number": "Not",
         "ram": "8gb",
@@ -381,8 +396,9 @@
         "connectivity":"c"
 
 
+
     },{   
-        "id": "27",
+        "id": "28",
         "company name": "Xiaomi",
         "model number": "M2101K6G",
         "ram": "6gb",
@@ -396,7 +412,7 @@
 
 
 
-    }
+    
     
         
    
