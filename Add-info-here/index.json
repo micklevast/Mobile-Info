@@ -425,6 +425,19 @@
         "camera": "64 mp",
         "speed": "4g",
         "connectivity":"c"
+        },
+    {
+        "id": "31",
+        "company name": "poco",
+        "model number": "Narzo 31 r",
+        "ram": "6gb",
+        "storage": "128 gb",
+        "color": "black",
+        "number of speakers": "3",
+     "launch Date":["11/02/2019"],
+        "camera": "64 mp",
+        "speed": "4g",
+        "connectivity":"c"
         }
     
 
