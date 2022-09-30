@@ -292,34 +292,21 @@
         "speed": "4g",
 
         "connectivity":"c"
-     },
-    {   
-        "id": "23",
-        "company name": "Realme",
-        "model number": "6i",
-        "ram": "4gb",
-        "storage": "64 gb",
-        "color": "Lunar White, Eclipse Black",
-        "number of speakers": "2",
-        "launch Date":["24/7/2020"],
-        "camera": "48 mp",
-        "speed": "4g",
-        "connectivity":"c"
-    },
-    {   
-        "id": "23",
-        "company name": "apple",
-        "model number": "iphone 14",
+     },{   
+        "id": "22",
+        "company name": "vivo 95",
+        "model number": "Nord",
         "ram": "6gb",
-        "storage": "512 gb",
-        "color": "black",
+        "storage": "128 gb",
+        "color": "marble blue",
         "number of speakers": "2",
-        "launch Date":["7/9/2022"],
-        "camera": "12 mp",
-        "speed": "255.91 Mbps",
+        "launch Date":["31/9/2018"],
+        "camera": "64 mp",
+        "speed": "5g",
         "connectivity":"c"
+
+
     },
-    
     {
         "id": "23",
         "company name": "POCO",
@@ -340,18 +327,13 @@
 
         "company name": "samsung",
         "model number": "SM-F415FZBGINS",
-
-
         "ram": "6gb",
-        "storage": "128 gb",
-        "color": "marble blue",
-        "number of speakers": "2",
-
-        "launch Date":["31/03/2021"],
-        "camera": "64 mp",
+        "storage": "128gb",
+        "color": "fusion blue",
+        "number of speakers": "1",
+        "launch Date":["08/10/2020"],
+        "camera": "64mp",
         "speed": "4g",
-        "connectivity":"c"
-
 
         "launch Date":["11/02/2020"],
         "camera": "64 mp",
@@ -372,39 +354,23 @@
         "camera": "48 mp",
         "speed": "4g",
         "connectivity":"c"
-
-    },
-    {   
+     }
+        ,
+     {
         "id": "26",
-
-        "company name": "Samsung",
-        "model number": "A71",
-        "ram": "8gb",
-        "storage": "128 gb",
-        "color": "White",
+        "company name": "Readmi",
+        "model number": "MZB0B6OIN",
+        "ram": "4gb",
+        "storage": "64gb",
+        "color": "Pacific Blue",
         "number of speakers": "1",
-        "launch Date":["12/12/2019"],
-        "camera": "64 mp",
+        "launch Date":["17/3/2022"],
+        "camera": "50mp",
         "speed": "4g",
         "connectivity":"c"
 
-    },
-{
-        "id": "27",
-        "company name": "poco x3 pro",
-        "model number": "Not",
-        "ram": "8gb",
-        "storage": "128 gb",
-        "color": "Steel Blue",
-        "number of speakers": "2",
-        "launch Date":["30/03/2021"],
-        "camera": "48 mp",
-        "speed": "4g",
-        "connectivity":"c"
+     },
 
-
-
-    },
 {   
         "id": "28",
         "company name": "Xiaomi",
@@ -432,9 +398,22 @@
         "speed": "4g",
         "connectivity":"c"
     },
+    {   
+        "id": "30",
+        "company name": "SONY",
+        "model number": "Not",
+        "ram": "8gb",
+         "storage": "128 gb",
+        "color": "Blue",
+        "number of speakers": "2",
+        "launch Date":["30/03/2022"],
+        "camera": "48 mp",
+        "speed": "5g",
+        "connectivity":"c"
+    }
     
     {
-        "id": "30",
+        "id": "31",
         "company name": "realme",
         "model number": "Narzo 30 T",
         "ram": "4gb",
@@ -448,8 +427,9 @@
         "connectivity":"c"
     },
 
+
     {
-        "id": "31",
+        "id": "32",
         "company name": "Huawei",
         "model number": "Note 50",
         "ram": "8gb",
@@ -462,16 +442,75 @@
         "connectivity":"c"
     }
     
-    
 
-     
-        
-
+    {
+        "id": "33",
+        "company name": "realme",
+        "model number": "Narzo 30 T",
+        "ram": "4gb",
+        "storage": "32 gb",
+        "color": "silver",
+        "number of speakers": "2",
+     "launch Date":["11/02/2020"],
+        "camera": "64 mp",
+        "speed": "4g",
+        "connectivity":"c"
+        },
+    {
+        "id": "34",
+        "company name": "readme",
+        "model number": "Note 9 Pro",
+        "ram": "8gb",
+        "storage": "128 gb",
+        "color": "blue",
+        "number of speakers": "2",
+     "launch Date":["11/02/2019"],
+        "camera": "64 mp",
+        "speed": "4g",
+        "connectivity":"c"
+        },
+      {
+        "id": "35",
+        "company name": "apple i phone",
+        "model number": "i3",
+        "ram": "8gb",
+        "storage": "128 gb",
+        "color": "white",
+        "number of speakers": "2",
+     "launch Date":["11/02/2019"],
+        "camera": "64 mp",
+        "speed": "4g",
+        "connectivity":"c"
+        }
 
     
-    
-        
-   
+{
+        "id": "36",
+        "company name": "oppo",
+        "model number": "A38",
+        "ram": "6gb",
+        "storage": "64 gb",
+        "color": "blue",
+        "number of speakers": "2",
+        "launch Date":["26/5/2018"],
+        "camera": "32 mp",
+        "speed": "5g",
+        "connectivity":"c"
+    }
+
+    {
+        "id": "37",
+        "company name": "Redmi",
+        "model number": "Note 7",
+        "ram": "4gb",
+        "storage": "64 gb",
+        "color": "blue",
+        "number of speakers": "1",
+        "launch Date":["01/19"],
+        "camera": "13 mp",
+        "speed": "4g",
+        "connectivity":"c"
+    }
 
 
 ]
