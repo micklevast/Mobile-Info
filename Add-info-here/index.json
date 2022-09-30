@@ -305,21 +305,21 @@
         "speed": "5g",
         "connectivity":"c"
 
-    },{
+    },
+    {   
         "id": "23",
-
-        "company name": "samsung",
-        "model number": "SM-F415FZBGINS",
+        "company name": "poco x3 pro",
+        "model number": "Not",
         "ram": "6gb",
-        "storage": "128gb",
-        "color": "fusion blue",
-        "number of speakers": "1",
-        "launch Date":["08/10/2020"],
-        "camera": "64mp",
+        "storage": "128 gb",
+        "color": "marble blue",
+        "number of speakers": "2",
+        "launch Date":["31/03/2021"],
+        "camera": "64 mp",
         "speed": "4g",
-
         "connectivity":"c"
-     },
+
+    }
         
 
     
