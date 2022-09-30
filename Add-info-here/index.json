@@ -249,6 +249,21 @@
 
         "connectivity":"c"
         
+    },
+    {
+        "id": "19",
+        "company name": "A20s",
+        "model number": "12345",
+        "ram": "8gb",
+        "storage": "128gb",
+        "color": "blue",
+        "number of speakers": "2",
+        "launch Date":["08/9/2022"],
+        "camera": "16mp",
+        "speed": "4g",
+
+        "connectivity":"c"
+        
     }
         
 
