@@ -335,6 +335,24 @@
         "camera": "64mp",
         "speed": "4g",
 
+        "launch Date":["11/02/2020"],
+        "camera": "64 mp",
+        "speed": "4g",
+        "connectivity":"c"
+
+
+    },
+    {   
+        "id": "25",
+        "company name": "poco x2",
+        "model number": "MZB8744IN",
+        "ram": "8gb",
+        "storage": "128 gb",
+        "color": "Steel Blue",
+        "number of speakers": "2",
+        "launch Date":["30/03/2021"],
+        "camera": "48 mp",
+        "speed": "4g",
         "connectivity":"c"
      }
         ,
@@ -350,8 +368,65 @@
         "camera": "50mp",
         "speed": "4g",
         "connectivity":"c"
-     }
-        
+
+     },
+
+{   
+        "id": "28",
+        "company name": "Xiaomi",
+        "model number": "M2101K6G",
+        "ram": "6gb",
+        "storage": "128 gb",
+        "color": "Blue",
+        "number of speakers": "2",
+        "launch Date":["30/03/2019"],
+        "camera": "48 mp",
+        "speed": "4g",
+        "connectivity":"c"
+
+
+    }, {   
+        "id": "29",
+        "company name": "poco m2 pro",
+        "model number": "Not",
+        "ram": "4gb",
+         "storage": "128 gb",
+        "color": "Blue",
+        "number of speakers": "2",
+        "launch Date":["30/03/2019"],
+        "camera": "48 mp",
+        "speed": "4g",
+        "connectivity":"c"
+    },
+    
+    {
+        "id": "30",
+        "company name": "realme",
+        "model number": "Narzo 30 T",
+        "ram": "4gb",
+        "storage": "32 gb",
+        "color": "silver",
+        "number of speakers": "2",
+        "launch Date":["26/05/2021"],
+        "camera": "64 mp",
+        "speed": "5g",
+
+        "connectivity":"c"
+    },
+    {
+        "id": "30",
+        "company name": "realme",
+        "model number": "Narzo 30 T",
+        "ram": "4gb",
+        "storage": "32 gb",
+        "color": "silver",
+        "number of speakers": "2",
+     "launch Date":["11/02/2020"],
+        "camera": "64 mp",
+        "speed": "4g",
+        "connectivity":"c"
+        }
+    
 
     
 
