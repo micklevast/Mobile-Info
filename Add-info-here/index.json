@@ -398,6 +398,19 @@
         "speed": "4g",
         "connectivity":"c"
     },
+    {   
+        "id": "30",
+        "company name": "SONY",
+        "model number": "Not",
+        "ram": "8gb",
+         "storage": "128 gb",
+        "color": "Blue",
+        "number of speakers": "2",
+        "launch Date":["30/03/2022"],
+        "camera": "48 mp",
+        "speed": "5g",
+        "connectivity":"c"
+    }
     
     {
         "id": "30",
@@ -434,14 +447,46 @@
         "storage": "128 gb",
         "color": "black",
         "number of speakers": "3",
+     },
+    {
+        "id": "131",
+        "company name": "readme",
+        "model number": "Note 9 Pro",
+        "ram": "8gb",
+        "storage": "128 gb",
+        "color": "blue",
+        "number of speakers": "2",
      "launch Date":["11/02/2019"],
         "camera": "64 mp",
         "speed": "4g",
         "connectivity":"c"
-        }
+       },
+      {
+        "id": "32",
+        "company name": "apple i phone",
+        "model number": "i3",
+        "ram": "8gb",
+        "storage": "128 gb",
+        "color": "white",
+        "number of speakers": "2",
+     "launch Date":["11/02/2019"],
+        "camera": "64 mp",
+        "speed": "4g",
+        "connectivity":"c"
+        },
     
-
+       {
+        "id": "31",
+        "company name": "oppo",
+        "model number": "A38",
+        "ram": "6gb",
+        "storage": "64 gb",
+        "color": "blue",
+        "number of speakers": "2",
+        "launch Date":["26/5/2018"],
+        "camera": "32 mp",
+        "speed": "5g",
+        "connectivity":"c"
+    }
     
-
-
 ]
