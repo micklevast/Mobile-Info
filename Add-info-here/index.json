@@ -249,6 +249,21 @@
 
         "connectivity":"c"
         
+    },
+    {
+        "id": "20",
+        "company name": "Mota",
+        "model number": "Edge 80 Ultra",
+        "ram": "12gb",
+        "storage": "35gb",
+        "color": "blue & black",
+        "number of speakers": "8",
+        "launch Date":["06/9/2022"],
+        "camera": "900mp",
+        "speed": "9g",
+
+        "connectivity":"g"
+        
     }
         
 
