@@ -251,7 +251,35 @@
         
     },
     {
+
         "id": "19",
+        "company name": "A20s",
+        "model number": "12345",
+        "ram": "8gb",
+        "storage": "128gb",
+        "color": "blue",
+        "number of speakers": "2",
+        "launch Date":["08/9/2022"],
+        "camera": "16mp",
+        "speed": "4g",
+
+        "connectivity":"c"
+        },{
+
+        "id": "20",
+        "company name": "Mota",
+        "model number": "Edge 80 Ultra",
+        "ram": "12gb",
+        "storage": "35gb",
+        "color": "blue & black",
+        "number of speakers": "8",
+        "launch Date":["06/9/2022"],
+        "camera": "900mp",
+        "speed": "9g",
+
+        "connectivity":"g"
+        },{
+        "id": "21",
 
         "company name": "vivo",
         "model number": "15486",
@@ -265,7 +293,7 @@
 
         "connectivity":"c"
      },{   
-        "id": "20",
+        "id": "22",
         "company name": "vivo 95",
         "model number": "Nord",
         "ram": "6gb",
@@ -277,8 +305,72 @@
         "speed": "5g",
         "connectivity":"c"
 
+
+    },
+    
+    {
+        "id": "23",
+        "company name": "POCO",
+        "model number": "M2102J2OSI",
+        "ram": "8gb",
+        "storage": "128 gb",
+        "color": "Steel Blue",
+        "number of speakers": "2",
+        "launch Date":["30/03/2021"],
+        "camera": "48 mp",
+        "speed": "4g",
+        "connectivity":"c"
+    },
+       
+
+   {
+        "id": "24",
+
+        "company name": "samsung",
+        "model number": "SM-F415FZBGINS",
+
+
+        "ram": "6gb",
+        "storage": "128 gb",
+        "color": "marble blue",
+        "number of speakers": "2",
+
+        "launch Date":["31/03/2021"],
+        "camera": "64 mp",
+        "speed": "4g",
+        "connectivity":"c"
+
+    },
+    {   
+        "id": "25",
+        "company name": "poco x2",
+        "model number": "MZB8744IN",
+        "ram": "8gb",
+        "storage": "128 gb",
+        "color": "Steel Blue",
+        "number of speakers": "2",
+        "launch Date":["30/03/2021"],
+        "camera": "48 mp",
+        "speed": "4g",
+        "connectivity":"c"
+
+    },
+    {   
+        "id": "26",
+        "company name": "poco x3 pro",
+        "model number": "Not",
+        "ram": "8gb",
+        "storage": "128 gb",
+        "color": "Steel Blue",
+        "number of speakers": "2",
+        "launch Date":["30/03/2021"],
+        "camera": "48 mp",
+        "speed": "4g",
+        "connectivity":"c"
+
+
     },{   
-        "id": "21",
+        "id": "27",
         "company name": "Xiaomi",
         "model number": "M2101K6G",
         "ram": "6gb",
@@ -286,13 +378,12 @@
         "color": "Glacier Blue",
         "number of speakers": "2",
         "launch Date":["31/4/2021"],
-        "camera": "64 mp",
-        "speed": "4g",
-        "connectivity":"c"
 
-    }
-        
+
+    },
+
 
     
+
 
 ]
