@@ -563,6 +563,19 @@
         "speed": "4g",
         "connectivity":"c"
     },
+     {
+        "id": "47",
+        "company name": "Readmi",
+        "model number": "m2101k7ai",
+        "ram": "6gb",
+        "storage": "128gb",
+        "color": "Shadow Black",
+        "number of speakers": "2",
+        "launch Date":["4/3/2021"],
+        "camera": "48mp",
+        "speed": "4g",
+        "connectivity":"c"
+    },
     {
 
         "id": "40",
