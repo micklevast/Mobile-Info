@@ -589,5 +589,19 @@
         "camera": "64 mp",
         "speed": "5g",
         "connectivity":"c"
-     }
+     },
+    {
+        "id": "44",
+        "company name": "POCO",
+        "model number": "M2102J2OSI",
+        "ram": "8gb",
+        "storage": "128 gb",
+        "color": "Steel Blue",
+        "number of speakers": "2",
+        "launch Date":["30/03/2021"],
+        "camera": "48 mp",
+        "speed": "4g",
+        "connectivity":"c"
+
+     },
 ]
