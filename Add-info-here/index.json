@@ -466,7 +466,19 @@
         "connectivity":"c"
         }
     
-
+{
+        "id": "31",
+        "company name": "oppo",
+        "model number": "A38",
+        "ram": "6gb",
+        "storage": "64 gb",
+        "color": "blue",
+        "number of speakers": "2",
+        "launch Date":["26/5/2018"],
+        "camera": "32 mp",
+        "speed": "5g",
+        "connectivity":"c"
+    }
     
 
 
