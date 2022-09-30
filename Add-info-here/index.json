@@ -431,9 +431,22 @@
         "camera": "48 mp",
         "speed": "4g",
         "connectivity":"c"
-
-
     },
+    
+    {
+        "id": "30",
+        "company name": "realme",
+        "model number": "Narzo 30 T",
+        "ram": "4gb",
+        "storage": "32 gb",
+        "color": "silver",
+        "number of speakers": "2",
+        "launch Date":["26/05/2021"],
+        "camera": "64 mp",
+        "speed": "5g",
+
+        "connectivity":"c"
+    }
     
     
 
