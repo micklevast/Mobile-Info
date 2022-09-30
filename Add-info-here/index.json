@@ -510,8 +510,33 @@
         "camera": "42 mp",
         "speed": "4g",
         "connectivity":"c"
-    }
-
+    },
+{
+        "id": "33",
+        "company name": "Samsung",
+        "model number": "Galaxy F42 5G",
+        "ram": "8gb",
+        "storage": "512 gb",
+        "color": "blue",
+        "number of speakers": "1",
+        "launch Date":["9/22"],
+        "camera": "48 mp",
+        "speed": "5g",
+        "connectivity":"c"
+    },
+       {
+        "id": "32",
+        "company name": "Vivo",
+        "model number": "Y11",
+        "ram": "3 gb",
+        "storage": "32 gb",
+        "color": "blue",
+        "number of speakers": "1",
+        "launch Date":["18/10/2019"],
+        "camera": "13 mp",
+        "speed": "4g",
+        "connectivity":"c"
+    },
     {
         "id": "38",
         "company name": "Redmi",
@@ -522,6 +547,19 @@
         "number of speakers": "2",
         "launch Date":["22/8/2019"],
         "camera": "20 mp",
+        "speed": "4g",
+        "connectivity":"c"
+    },
+     {
+        "id": "47",
+        "company name": "Readmi",
+        "model number": "m2101k7ai",
+        "ram": "6gb",
+        "storage": "128gb",
+        "color": "Shadow Black",
+        "number of speakers": "2",
+        "launch Date":["4/3/2021"],
+        "camera": "48mp",
         "speed": "4g",
         "connectivity":"c"
     },
@@ -537,7 +575,7 @@
         "launch Date":["22/8/2019"],
         "camera": "64 mp",
         "speed": "5g",
-        "connectivity":"c"
+
      },
  {
         "id": "37",
@@ -552,5 +590,17 @@
         "speed": "4g",
         "connectivity":"c"
     }
-    
+
+{ "id": "41",
+        "company name": "Apple",
+        "model number": "14 Pro Max",
+        "ram": "8gb",
+        "storage": "64 gb",
+        "color": "black",
+        "number of speakers": "2",
+        "launch Date":["12/9/2022"],
+        "camera": "32 mp",
+        "speed": "5g",
+        "connectivity":"c"
+}
 ]
