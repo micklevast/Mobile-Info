@@ -425,6 +425,32 @@
         "camera": "64 mp",
         "speed": "4g",
         "connectivity":"c"
+        },
+    {
+        "id": "31",
+        "company name": "readme",
+        "model number": "Note 9 Pro",
+        "ram": "8gb",
+        "storage": "128 gb",
+        "color": "blue",
+        "number of speakers": "2",
+     "launch Date":["11/02/2019"],
+        "camera": "64 mp",
+        "speed": "4g",
+        "connectivity":"c"
+        },
+      {
+        "id": "32",
+        "company name": "apple i phone",
+        "model number": "i3",
+        "ram": "8gb",
+        "storage": "128 gb",
+        "color": "white",
+        "number of speakers": "2",
+     "launch Date":["11/02/2019"],
+        "camera": "64 mp",
+        "speed": "4g",
+        "connectivity":"c"
         }
     
 
