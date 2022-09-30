@@ -536,8 +536,20 @@
         "camera": "48 mp",
         "speed": "5g",
         "connectivity":"c"
-    }
-
+    },
+       {
+        "id": "32",
+        "company name": "Vivo",
+        "model number": "Y11",
+        "ram": "3 gb",
+        "storage": "32 gb",
+        "color": "blue",
+        "number of speakers": "1",
+        "launch Date":["18/10/2019"],
+        "camera": "13 mp",
+        "speed": "4g",
+        "connectivity":"c"
+    },
     {
         "id": "39",
         "company name": "Redmi",
@@ -564,6 +576,5 @@
         "camera": "64 mp",
         "speed": "5g",
         "connectivity":"c"
-     },
-    
+     }
 ]
