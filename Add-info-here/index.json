@@ -441,6 +441,15 @@
         },
     {
         "id": "31",
+        "company name": "poco",
+        "model number": "Narzo 31 r",
+        "ram": "6gb",
+        "storage": "128 gb",
+        "color": "black",
+        "number of speakers": "3",
+     },
+    {
+        "id": "131",
         "company name": "readme",
         "model number": "Note 9 Pro",
         "ram": "8gb",
@@ -451,7 +460,7 @@
         "camera": "64 mp",
         "speed": "4g",
         "connectivity":"c"
-        },
+       },
       {
         "id": "32",
         "company name": "apple i phone",
@@ -464,9 +473,9 @@
         "camera": "64 mp",
         "speed": "4g",
         "connectivity":"c"
-        }
+        },
     
-{
+       {
         "id": "31",
         "company name": "oppo",
         "model number": "A38",
@@ -480,6 +489,4 @@
         "connectivity":"c"
     }
     
-
-
 ]
