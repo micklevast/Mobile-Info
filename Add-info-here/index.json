@@ -292,20 +292,32 @@
         "speed": "4g",
 
         "connectivity":"c"
-     },{   
-        "id": "22",
-        "company name": "vivo 95",
-        "model number": "Nord",
-        "ram": "6gb",
-        "storage": "128 gb",
-        "color": "marble blue",
+     },
+    {   
+        "id": "23",
+        "company name": "Realme",
+        "model number": "6i",
+        "ram": "4gb",
+        "storage": "64 gb",
+        "color": "Lunar White, Eclipse Black",
         "number of speakers": "2",
-        "launch Date":["31/9/2018"],
-        "camera": "64 mp",
-        "speed": "5g",
+        "launch Date":["24/7/2020"],
+        "camera": "48 mp",
+        "speed": "4g",
         "connectivity":"c"
-
-
+    },
+    {   
+        "id": "23",
+        "company name": "apple",
+        "model number": "iphone 14",
+        "ram": "6gb",
+        "storage": "512 gb",
+        "color": "black",
+        "number of speakers": "2",
+        "launch Date":["7/9/2022"],
+        "camera": "12 mp",
+        "speed": "255.91 Mbps",
+        "connectivity":"c"
     },
     
     {
@@ -364,6 +376,21 @@
     },
     {   
         "id": "26",
+
+        "company name": "Samsung",
+        "model number": "A71",
+        "ram": "8gb",
+        "storage": "128 gb",
+        "color": "White",
+        "number of speakers": "1",
+        "launch Date":["12/12/2019"],
+        "camera": "64 mp",
+        "speed": "4g",
+        "connectivity":"c"
+
+    },
+{
+        "id": "27",
         "company name": "poco x3 pro",
         "model number": "Not",
         "ram": "8gb",
@@ -376,13 +403,28 @@
         "connectivity":"c"
 
 
+
     },
- {   
+{   
+        "id": "28",
+        "company name": "Xiaomi",
+        "model number": "M2101K6G",
+        "ram": "6gb",
+        "storage": "128 gb",
+        "color": "Blue",
+        "number of speakers": "2",
+        "launch Date":["30/03/2019"],
+        "camera": "48 mp",
+        "speed": "4g",
+        "connectivity":"c"
+
+
+    }, {   
         "id": "29",
         "company name": "poco m2 pro",
         "model number": "Not",
         "ram": "4gb",
-        "storage": "128 gb",
+         "storage": "128 gb",
         "color": "Blue",
         "number of speakers": "2",
         "launch Date":["30/03/2019"],
@@ -398,7 +440,11 @@
      
         
 
+
     
+    
+        
+   
 
 
 ]
