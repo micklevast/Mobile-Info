@@ -340,6 +340,13 @@
         "speed": "4g",
         "connectivity":"c"
 
+
+        "launch Date":["11/02/2020"],
+        "camera": "64 mp",
+        "speed": "4g",
+        "connectivity":"c"
+
+
     },
     {   
         "id": "25",
@@ -369,19 +376,27 @@
         "connectivity":"c"
 
 
-    },{   
-        "id": "27",
-        "company name": "Xiaomi",
-        "model number": "M2101K6G",
-        "ram": "6gb",
+    },
+ {   
+        "id": "29",
+        "company name": "poco m2 pro",
+        "model number": "Not",
+        "ram": "4gb",
         "storage": "128 gb",
-        "color": "Glacier Blue",
+        "color": "Blue",
         "number of speakers": "2",
-        "launch Date":["31/4/2021"],
+        "launch Date":["30/03/2019"],
+        "camera": "48 mp",
+        "speed": "4g",
+        "connectivity":"c"
 
 
     },
+    
+    
 
+     
+        
 
     
 
